@@ -13,5 +13,6 @@ public class HelloController {
 		model.addAttribute("message", "Hello world!");
 		return "boardList";
         //return "hello";
+		//test
 	}
 }
